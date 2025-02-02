@@ -20,7 +20,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.4); /* Adjust opacity (0.5 = 50% darkness) */
+    background: rgba(0, 0, 0, 0.4);
     z-index: -2;
 }
 
@@ -41,7 +41,7 @@ body .material-symbols-outlined {
 }
 
 .purpleText {
-    color: rgb(160, 0, 188);;
+    color: rgb(160, 0, 188);
 }
 
 #content {
